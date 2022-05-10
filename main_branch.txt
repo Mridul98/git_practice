@@ -1,2 +1,1 @@
 this is the first commit that has been made on the main branch by "mridul".
-this is the second commit that has been made after committing to the main branch in the same file
