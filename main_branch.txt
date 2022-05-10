@@ -1,5 +1,2 @@
 this is the first commit that has been made on the main branch by "mridul".
-<<<<<<< HEAD
-=======
-this is the first commit after creating feature_one_mridul branch 
->>>>>>> main
+Hi this is from feature_one_mridul
