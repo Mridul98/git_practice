@@ -1,7 +1,12 @@
 this is the first commit that has been made on the main branch by "mridul".
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is the first commit after creating feature_one_mridul branch 
 
 =======
 Hi this is from feature_one_mridul
 >>>>>>> feature_two_mridul
+=======
+this is the first commit after creating feature_one_mridul branch 
+
+>>>>>>> 88868de3cce390d9620d1abaa6c6bc1ea6d772fc
